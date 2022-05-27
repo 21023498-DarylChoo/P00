@@ -5,7 +5,7 @@ import org.junit.Before;
 import org.junit.Test;
 
 public class CalculatorTest {
-	int a , b;
+	int a , b; 
 	Calculator cal = new Calculator();
 
 	@Before
