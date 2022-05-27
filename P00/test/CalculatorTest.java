@@ -28,7 +28,7 @@ public class CalculatorTest {
 		assertEquals(expected,actual);
 	}
 	
-	@Test    
+	@Test  
 	public void testmulti() {
 		int actual = cal.multiply(a, b);
 		int expected = 5332114;
